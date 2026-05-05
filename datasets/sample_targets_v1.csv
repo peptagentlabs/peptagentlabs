@@ -1,0 +1,5 @@
+target_id,name,category,difficulty,min_length,max_length,required_motifs,hydrophobicity_min,hydrophobicity_max,reference_source
+TGT-DEMO-001,Demo Kinase-Like Research Target,benchmark,medium,8,25,Y|K,-0.4,0.4,PEPTA synthetic target set v1
+TGT-DEMO-002,GPCR Loop Interface Benchmark,benchmark,low,10,22,R|F,-0.5,0.3,PEPTA synthetic target set v1
+TGT-DEMO-003,Enzyme Pocket Constraint Screen,benchmark,high,12,24,H|D,-0.2,0.5,PEPTA synthetic target set v1
+TGT-DEMO-004,Receptor Surface Binding Panel,benchmark,medium,9,20,Q|L,-0.3,0.4,PEPTA synthetic target set v1
